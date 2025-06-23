@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Ingeniero de software en Microsoft**
-:pencil: **Generador de contenido**
+
+:pencil: **Generador de contenido**,
+
 :eyeglasses: **Geek empedernido** (¿aun se usa geek?)
+
 :oncoming_automobile: **Fan de los autos , carreras y simuladores**
+
 :family: **¡El papá más deliz del mundo!**
 
 
